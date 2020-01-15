@@ -1,0 +1,18 @@
+{
+"name": "CTC Go Motions",
+"frameworks": "Arduino",
+"keywords": "Introduction, Education, Programme",
+"description": "Library expaning the CTC Go Core education programme with examples related to the Motions expansion pack. Optimized for collaboration.",
+"url": "https://github.com/arduino-libraries/CTC-Go-Motions-Expansion",
+"downloadUrl": "https://github.com/arduino-libraries/CTC-Go-Motions-Expansion/releases",
+"authors":
+{
+        "name": "Lenard George",
+        "maintainer": true
+},
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/arduino-libraries/CTC-Go-Motions-Expansion.git"
+}
+}
